@@ -2,3 +2,4 @@
 2. local feature/b
 3. local feature/b final
 4. remote dev
+2. local feature/a ~ merged
