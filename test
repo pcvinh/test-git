@@ -3,3 +3,5 @@
 3. local feature/b final
 4. remote dev
 2. local feature/a ~ merged
+6. remote feature/test2
+7. local feature/test2 - commit & merge
