@@ -6,3 +6,4 @@
 6. remote feature/test2
 7. local feature/test2 - commit & merge
 8. remote dev - git fetch
+9. remote dev update - on feature/test5
